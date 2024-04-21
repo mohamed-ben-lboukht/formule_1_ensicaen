@@ -1,4 +1,4 @@
-#ifndef LADJ_H
+r#ifndef LADJ_H
 #define LADJ_H
 #include <stdio.h>
 #include <stdlib.h>
